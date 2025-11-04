@@ -187,5 +187,5 @@ if st.checkbox('🧠 Show Correlation Heatmap'):
 # ------------------------------
 st.markdown("""
 --- 
-Minor Project | NIT Jalandhar  
+ Project | Himanshu Sharma
 """)
